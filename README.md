@@ -8,3 +8,5 @@
 [:orange_book: Desempenho Oracle](https://github.com/Vanessats/certificados/blob/main/Certifica%C3%A7%C3%B5es/Certificate%20Oracle.pdf)
 
 [:orange_book: Scrum](https://github.com/Vanessats/certificados/blob/main/Certifica%C3%A7%C3%B5es/Certificate%20Scrum.pdf)
+
+[:orange_book: Introdução SQL](https://github.com/Vanessats/certificados/blob/main/Certifica%C3%A7%C3%B5es/intro.pdf)
